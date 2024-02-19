@@ -1,7 +1,7 @@
 {
   "domain": "festpan.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e00c19",
+  "primary_color": "#28a745",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/festpan",
   "logo": "/img/uploads/logo-festpan-45-anos.-300x158.png",
-  "name": "festpan",
-  "short_name": "festpan",
+  "name": "Festpan Alimentos",
+  "short_name": "Festpan Alimentos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/688db3f550.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#c49436",
+  "secondary_color": "#e00c19",
   "icon": "/img/uploads/logo-festpan-45-anos.-300x158.png",
   "store_id": 51491,
   "description": "No dia 18 de outubro de 1978, três jovens se reuniram em volta da única mesa de uma pequena casa de 100 m2 em São Bernardo do Campo, e decidiram dar o primeiro passo para o início de uma grande história.\n\nNo mesmo ano, fundaram a Festpan Alimentos Distribuidora. A primeira empresa do Grupo Festpan.\n\nDesde o início desse projeto, apesar de todas as dificuldades, eles mantiveram o foco em um único objetivo, atender e satisfazer os clientes, a fim de que enxergassem a Festpan como a maior e melhor empresa nacional de produtos para panificação e confeitaria. E, é claro, eles conseguiram! Inovaram, cresceram e agregaram valores.",
