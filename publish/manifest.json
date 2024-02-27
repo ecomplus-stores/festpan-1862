@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a9bc5d4387eb22f9b10a1baaecaa7718.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.81880378057fb3f19a99a4bec5254ff8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.828b4d18484e85c7974e961dc5468087.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.068d962452a24a22a81cbf42a4dbf368.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3b6387a517c10e3e46f0b002a9ad69c6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Festpan Alimentos",
+  "short_name": "Festpan Alimentos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "No dia 18 de outubro de 1978, três jovens se reuniram em volta da única mesa de uma pequena casa de 100 m2 em São Bernardo do Campo, e decidiram dar o primeiro passo para o início de uma grande história.\n\nNo mesmo ano, fundaram a Festpan Alimentos Distribuidora. A primeira empresa do Grupo Festpan.\n\nDesde o início desse projeto, apesar de todas as dificuldades, eles mantiveram o foco em um único objetivo, atender e satisfazer os clientes, a fim de que enxergassem a Festpan como a maior e melhor empresa nacional de produtos para panificação e confeitaria. E, é claro, eles conseguiram! Inovaram, cresceram e agregaram valores.",
+  "background_color": "#ffffff",
+  "theme_color": "#28a745"
+}
