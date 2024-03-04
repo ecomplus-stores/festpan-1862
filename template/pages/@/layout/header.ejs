@@ -34,6 +34,7 @@ if (header.categories_list) {
       return { slug: path.slice(1), name }
     })
   }
+console.log(categories)
   if (header.categories_list.random) {
     // add up to `random` main categories
     const mainCategories = _.categories.filter(({ parent }) => !parent || !parent.slug)
@@ -45,6 +46,8 @@ if (header.categories_list) {
   }
   isCategoriesNavFull = header.categories_list.full_width
 }
+
+console.log(mainCategories)
 const hasMegamenu = header.desktop_megamenu
 const isAlphabeticalOrderSubmenu = header.alphabetical_order_submenu
 const fullWidthSubmenu = header.full_width_submenu
