@@ -302,6 +302,12 @@
     </url>
   
     <url>
+      <loc>https://festpan.netlify.app/plastico</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://festpan.netlify.app/amelia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
