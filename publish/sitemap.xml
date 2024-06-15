@@ -458,13 +458,13 @@
     </url>
   
     <url>
-      <loc>https://festpan.netlify.app/pages/sobre-nos</loc>
+      <loc>https://festpan.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://festpan.netlify.app/pages/termos</loc>
+      <loc>https://festpan.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
