@@ -1,0 +1,48 @@
+/*!
+ * @ecomplus/client
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/passport-client
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/search-engine
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/shopping-cart
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/utils
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! lozad.js - v1.16.0 - 2020-09-06
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2020 Apoorv Saxena; Licensed MIT */
