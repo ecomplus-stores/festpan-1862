@@ -16,7 +16,7 @@ export default {
                         "filter": [
                             {
                                 "term": {
-                                    "specs.grid": "lojas"
+                                    "specs.grid": "stores"
                                 }
                             },
                             {
